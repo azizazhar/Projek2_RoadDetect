@@ -1,0 +1,14 @@
+# Cuma catatan buat yang belum install library pip nya untuk digunakan ke dalam projek eai ini
+sebetulnya ini file ga kepake di akhirat wallahualam dan ga penting kalo lo hengker sejati!
+
+Library pip yang dipakai yaitu:
+1. streamlit
+2. ultralytics
+3. opencv-python-headless
+4. numpy
+5. Pillow
+6. torch
+7. torchvision
+
+Jalankan ini di terminal: pip install streamlit ultralytics opencv-python-headless numpy Pillow torch torchvision
+Sekian terima gajih
